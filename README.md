@@ -10,6 +10,6 @@
 ![Rabellog's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabellog&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabellog&layout=compact)
-[![Rabellog's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rabellog&bg_color=000000&color=ffffff&line=ffffff&point=0ad6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rabello's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rabellog&bg_color=ffffff&color=000000&line=adcdff&point=0011ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
