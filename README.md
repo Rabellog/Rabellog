@@ -11,6 +11,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabellog&layout=compact)
 
-[![rabellog's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rabellog&theme=xcode)](https://github.com/rabellog/github-readme-activity-graph)
+[![rabellog's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rabellog&theme=merko)](https://github.com/rabellog/github-readme-activity-graph)
 </div>
 
