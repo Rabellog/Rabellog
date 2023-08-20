@@ -8,7 +8,7 @@
 ![Status](https://github-readme-stats.vercel.app/api?username=rabellog&show_icons=true&theme=merko)
 
 
-
+### Activity:
 [![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=rabellog&theme=merko)](https://github.com/rabellog/github-readme-activity-graph)
 
 ### Social networks:
