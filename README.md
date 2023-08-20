@@ -5,12 +5,15 @@
 # Welcome to my profile!
 
 ### Status:
+<br>
+
 ![Status](https://github-readme-stats.vercel.app/api?username=rabellog&show_icons=true&theme=merko) 
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabellog&layout=compact&hide_border=true&title_color=32CD32&text_color=7CFC00&bg_color=0d1117" />
-</div>
-
 
 ### Activity:
+
+<br>
+
 [![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=rabellog&theme=merko)](https://github.com/rabellog/github-readme-activity-graph)
 
 ### Visitors count: 
