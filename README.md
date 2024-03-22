@@ -2,7 +2,7 @@
 
 <div align="center"> 
  
-### Welcome to my profile!
+## Welcome to my profile!
 
 <br>
 
