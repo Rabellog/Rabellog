@@ -7,10 +7,7 @@
 
 <br>
 
-[![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=rabellog&theme=merko)](https://github.com/rabellog/github-readme-activity-graph)
-
-### Visitors count: 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rabellog}/count.svg" /></p> 
+[![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=rabellog&theme=shadow_red)](https://github.com/rabellog/github-readme-activity-graph)
 
 ### Social networks:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rabellog_/?next=%2F)
