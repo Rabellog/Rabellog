@@ -6,7 +6,7 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e50e0e&height=50&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e50e0e&height=70&section=footer"/>
 
 <br>
 
