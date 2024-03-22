@@ -2,8 +2,13 @@
 
 <div align="center"> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabellog&theme=shadow_red)
+#### Welcome!
+
 ![Status](https://github-readme-stats.vercel.app/api?username=rabellog&show_icons=true&theme=shadow_red) 
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabellog&theme=shadow_red)
 
 <br>
 
