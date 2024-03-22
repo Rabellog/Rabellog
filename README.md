@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e50e0e&height=120&section=header"/>
 
 <div align="center"> 
  
@@ -24,4 +24,4 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=Limkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-antunes-rabello-013379268)
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e50e0e&height=120&section=footer"/>
