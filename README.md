@@ -6,7 +6,8 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e50e0e&height=50&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e50e0e&height=60&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e50e0e&height=60&section=header"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabellog&theme=shadow_red)
 <br>
