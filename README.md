@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e50e0e&height=120&section=header"/>
 
 <div align="center"> 
- 
-![Status](https://github-readme-stats.vercel.app/api?username=rabellog&show_icons=true&theme=shadow_red) 
-
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabellog&theme=shadow_red)
+
+<br>
+ 
+![Status](https://github-readme-stats.vercel.app/api?username=rabellog&show_icons=true&theme=shadow_red) 
 
 <br>
 
