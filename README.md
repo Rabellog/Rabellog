@@ -15,10 +15,6 @@
 
 <br>
 
-#### NETWORKS:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rabellog_/?next=%2F)
-[![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=Limkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-antunes-rabello-013379268)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
