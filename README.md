@@ -8,7 +8,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e50e0e&height=120&section=footer"/>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" margin-bottom=60px><br>
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
