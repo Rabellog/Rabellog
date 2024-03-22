@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-<h1 font-size="30" color=e50e0e>WELCOME!</h1>
+<h3 font-size="40" color=e50e0e>WELCOME!</h1>
 
 <br>
 
