@@ -1,18 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e50e0e&height=120&section=header"/>
 
 <div align="center"> 
- 
-## Welcome to my profile!
-
-<br>
-
-### Status:
-<br>
 
 ![Status](https://github-readme-stats.vercel.app/api?username=rabellog&show_icons=true&theme=shadow_red) 
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabellog&layout=compact&hide_border=true&title_color=32CD32&text_color=7CFC00&bg_color=0d1117" />
-
-### Activity:
 
 <br>
 
