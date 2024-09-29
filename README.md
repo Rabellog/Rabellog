@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</p>
-
-<p align="center">
     <a href="https://postimg.cc/WdW3BYwm">
         <img src="https://i.postimg.cc/s2yhZtBL/Design-sem-nome-1-removebg-preview.png" alt="Design Sem Nome 1" />
     </a>
